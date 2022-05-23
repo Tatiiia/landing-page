@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Merriweather:wght@300&family=Oswald:wght@300&display=swap");
+@import url("Components/Container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/Card.css");
+
+body {
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
